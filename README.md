@@ -1,5 +1,5 @@
-👋 Staniszz  
-**Backend Developer | Python  | FastAPI  | PostgreSQL  | Docker | **
+# 🌎 Staniszz  
+## | Backend Developer | Python  | FastAPI  | PostgreSQL  | Docker | **
 
 Jestem backend developerem z zamiłowaniem do poszerzania horyzontów, głównym językiem którego używam jest python ktory umożliwia mi prace z API, bazami danych typu PostgreSQL itp.
 Szybko odnajduję workflow, biblioteka ktorej nie znam? żaden problem, dokumentacje pochłaniam w szybkim tempie. Narazie skupiłem sie na szlifowaniu umiejętności w backendzie i pracą
