@@ -8,8 +8,8 @@ z bazami danych, ale nie ukrywam swojego zainteresowania tematem Machine Learnin
 ---
 
 ## 📊 Statystyki
-[![GitHub Followers](https://img.shields.io/github/followers/TWOJ_USERNAME?label=Follow&style=social)](https://github.com/Staniszzz)
-[![GitHub stars](https://img.shields.io/github/stars/TWOJ_USERNAME?style=social)](https://github.com/Staniszzz)
+[![GitHub Followers](https://img.shields.io/github/followers/Staniszzz?label=Follow&style=social)](https://github.com/Staniszzz)
+[![GitHub stars](https://img.shields.io/github/stars/Staniszzz?style=social)](https://github.com/Staniszzz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/TWOJ_PROFIL)
 
 ---
